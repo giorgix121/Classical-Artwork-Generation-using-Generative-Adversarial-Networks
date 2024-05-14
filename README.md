@@ -63,7 +63,7 @@ To install the required packages, run:
 ```bash
 pip install -r requirements.txt
 
-### Dataset and Running
+## Dataset and Running
 Dataset Sourced: kaggle datasets download -d ikarus777/best-artworks-of-all-time
 
 To Train the model: "python train.py"
