@@ -1,6 +1,3 @@
-# Classical-Artwork-Generation-using-Generative-Adversarial-Networks
-Final Project for Deep Learning, ECE-GY 7123
-
 # Classical Artwork Generation using Generative Adversarial Networks
 
 This repository contains the implementation and report for the project "Classical Artwork Generation using Generative Adversarial Networks" developed as a part of the CS-GY 6953 / ECE-GY 7123 Deep Learning course at New York University Tandon School of Engineering.
