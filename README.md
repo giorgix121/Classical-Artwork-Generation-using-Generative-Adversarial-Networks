@@ -52,17 +52,4 @@ The results demonstrate significant improvements in the quality and diversity of
 - `src/` - Source code for the GAN model, data processing, and training scripts.
 - `images/` - Sample images generated at different epochs during training.
 - `models/` - Saved models at specified intervals for future fine-tuning and evaluation.
-
-## Usage
-
-### Requirements
-To install the required packages, run:
-```bash
-pip install -r requirements.txt
-
-## Dataset and Running
-Dataset Sourced: kaggle datasets download -d ikarus777/best-artworks-of-all-time
-
-To Train the model: "python train.py"
-To Generate images Using trained model: "python generate.py"
  
